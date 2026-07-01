@@ -90,11 +90,12 @@ Built PDF/Excel timetable parsers to compute free slots (cutting manual effort b
 
 ### 📜 Certifications
 
-- Machine Learning and Deep Learning — NPTEL
-- Certified DevOps Professional, Cloud Infrastructure — Oracle
-- Data Science Professional Certificate — IBM
-- Full-Stack Development in the MERN Stack — Apna College
-- Fundamentals of Network Communication — University of Colorado System
+- Machine Learning and Deep Learning — [NPTEL](https://drive.google.com/file/d/1jlqk9eC8103IQs0e3EKPdx0Dy9-yHvfj/view?usp=sharing)
+- Certified DevOps Professional, Cloud Infrastructure — [Oracle](https://drive.google.com/file/d/1aesAX_dTpaLGd9Iz0fY1_ccF8Kl6KuGC/view?usp=sharing)
+- Data Science Professional Certificate — [IBM](https://coursera.org/share/3488a89fdfc59f010466cef349e18849)
+- Full-Stack Development in the MERN Stack — [Apna College](https://drive.google.com/file/d/1s8JtNIq8nq_mhQWCZ5TTzGuISGXsMo_R/view?usp=sharing)
+- Introduction to Hardware and Operating Systems — [IBM](https://www.coursera.org/account/accomplishments/verify/0VA7J4RJVE62)
+- Fundamentals of Network Communication — [University of Colorado System](https://www.coursera.org/account/accomplishments/verify/7OJTFGZ7DWQH)
 
 ---
 
