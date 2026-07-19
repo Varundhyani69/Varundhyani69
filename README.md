@@ -76,7 +76,7 @@
 
 **[RetailPOS](https://github.com/varundhyani69) — Full-Stack Billing & Inventory Management System**
 Architected 10+ role-based REST APIs with Spring Security & JWT enforcing RBAC for admin/cashier roles. Modeled 8+ relational schemas via JPA/Hibernate, provisioned AWS S3 for 500+ product images, and containerized the backend with multi-stage Docker builds deployed on EC2 behind Nginx.
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `MySQL` `AWS` `React.js` `Docker` `Nginx`
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `AWS` `React.js` `Docker` `Nginx`
 
 **Scripify — AI-Native Content Research & Script Generation Platform**
 Engineered scalable REST APIs with MongoDB schemas powering content research & generation workflows, integrating Gemini AI across 5+ features. Built transcript extraction pipelines for reels, podcasts, and long-form video, and shipped an independent Chrome Extension end-to-end.
