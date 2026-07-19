@@ -17,7 +17,7 @@
 - 🔧 Backend-focused Full Stack Developer, currently pursuing B.Tech in CSE at Lovely Professional University
 - 🏗️ I architect REST APIs, design relational & NoSQL schemas, and ship containerized services on AWS
 - 🤖 Exploring LLM integration & AI agents — I've shipped Gemini AI-powered features and Chrome extensions
-- 🧠 Solved 260+ LeetCode problems with a 75%+ acceptance rate
+- 🧠 Solved 300+ LeetCode problems with a 75%+ acceptance rate
 - 📫 Reach me at **varundhyani29@gmail.com**
 - ⚡ Fun fact: I like terminals more than GUIs!
 
